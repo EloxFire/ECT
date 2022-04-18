@@ -1,0 +1,29 @@
+{
+  "name": "ect",
+  "version": "1.0.0",
+  "description": "Express Custom Template is a custom NodeJS based REST API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EloxFire/ECT.git"
+  },
+  "keywords": [
+    "REST",
+    "API",
+    "NodeJS",
+    "JavaScript"
+  ],
+  "author": "Enzo Avagliano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EloxFire/ECT/issues"
+  },
+  "homepage": "https://github.com/EloxFire/ECT#readme",
+  "dependencies": {
+    "boxen": "^6.2.1",
+    "expressjs": "^1.0.1"
+  }
+}
